@@ -1,0 +1,1 @@
+Internal Temp: 18.05¡ÆC, External Temp: 8.36¡ÆC, Humidity: 53.38%, Illuminance: 634.24 W/m2, CO2: 0.09%, Oxygen: 4.62%
